@@ -1,7 +1,7 @@
-#include<isostream>
+#include<iostream>
 using namespace std;
 int main()
 {
-    count<<"hello pratham";
+    cout << "hello pratham";
     return 0;
 }
